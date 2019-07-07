@@ -1,0 +1,87 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "move",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.9,
+  "sample": 20,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -718,
+            224
+          ]
+        },
+        {
+          "frame": 0.25,
+          "value": [
+            -180,
+            224
+          ]
+        },
+        {
+          "frame": 0.3,
+          "value": [
+            -121,
+            165
+          ]
+        },
+        {
+          "frame": 0.35,
+          "value": [
+            -121,
+            100
+          ]
+        },
+        {
+          "frame": 0.4,
+          "value": [
+            -180,
+            45
+          ]
+        },
+        {
+          "frame": 0.45,
+          "value": [
+            -274,
+            45
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            -333,
+            96
+          ]
+        },
+        {
+          "frame": 0.55,
+          "value": [
+            -333,
+            161
+          ]
+        },
+        {
+          "frame": 0.6,
+          "value": [
+            -268,
+            226
+          ]
+        },
+        {
+          "frame": 0.9,
+          "value": [
+            540,
+            226
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "reload",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4.016666666666667,
+  "sample": 60,
+  "speed": 0.8,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "bar": {
+        "props": {
+          "width": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 4.016666666666667,
+              "value": 800
+            }
+          ]
+        }
+      },
+      "图层 1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -42,
+                30
+              ]
+            },
+            {
+              "frame": 4.016666666666667,
+              "value": [
+                755,
+                30
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
